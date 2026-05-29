@@ -105,7 +105,7 @@ if (!this.sound.get('bgm')) {
         this.target = Phaser.Utils.Array.GetRandom(this.symbols);
 
         this.targetText.setText(
-            `Find: ${this.target.text}`
+            `Finde: ${this.target.text}`
         );
 
         const items = [];
