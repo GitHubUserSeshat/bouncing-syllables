@@ -143,7 +143,7 @@ class GameScene extends Phaser.Scene {
         );
 
         this.targetText.setText(
-            `Find: ${this.target.toUpperCase()}`
+            `Finde: ${this.target.toUpperCase()}`
         );
 
         // =====================================================
