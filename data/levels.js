@@ -1,17 +1,17 @@
 const LEVELS = [
     {
         name: "Level 1",
-        speed: 0.8,
+        speed: 0.5,
         rounds: 5
     },
     {
         name: "Level 2",
-        speed: 1.2,
+        speed: 0.8,
         rounds: 5
     },
     {
         name: "Level 3",
-        speed: 1.8,
+        speed: 1.2,
         rounds: 5
     }
 ];
