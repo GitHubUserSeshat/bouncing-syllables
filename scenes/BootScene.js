@@ -31,7 +31,7 @@ class BootScene extends Phaser.Scene {
            this.load.image('bg', 'assets/images/clouds_stars.jpg');
 
            // music
-            this.load.audio('bgm', 'assets/audio/mozart_vous-diraii-je.wav');
+            this.load.audio('bgm', 'assets/audio/mozart_vous-diraii-je.mp3');
     }
 
     create() {
