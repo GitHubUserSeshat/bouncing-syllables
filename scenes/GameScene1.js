@@ -368,7 +368,7 @@ class GameScene extends Phaser.Scene {
                 this.scale.width / 2,
                 this.scale.height / 2,
 
-                'YOU WIN! 🎉',
+                'GEWONNEN! 🎉',
 
                 {
                     fontSize: '64px',
