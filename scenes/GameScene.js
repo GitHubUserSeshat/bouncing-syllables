@@ -257,7 +257,7 @@ if (!this.sound.get('bgm')) {
             this.add.text(
                 this.scale.width / 2,
                 this.scale.height / 2,
-                'YOU WIN 🎉',
+                'DU HAST GEWONNEN! 🎉',
                 { fontSize: '64px', color: '#000' }
             ).setOrigin(0.5);
 
